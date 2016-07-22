@@ -1,0 +1,23 @@
+.primero{
+	display: block;
+}
+.caja{
+	display:inline-block;
+}
+.imag{
+	position: relative;
+	margin: 15px;
+	 -webkit-filter: brightness(90%) contrast(90%);
+}
+.nombres{
+	position: relative;
+	left: 115px;
+	bottom:60px;
+	color: white;
+	}
+hr {
+  background-color: black;
+  height:5px;
+  width: 100px;
+  margin-left: 0;
+}
